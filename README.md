@@ -1,4 +1,4 @@
-IdleRPG 2.0
+mRPG 2.0
 ========
 A reinterpretation of the IdleRPG
 
@@ -22,4 +22,4 @@ License
 [![Creative Commons License](http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png "Creative Commons License")](http://creativecommons.org/licenses/by-nc-sa/3.0/)
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-nc-sa/3.0/).  
-Based on a work at <https://github.com/mozor/idlerpg>
+Based on a work at <https://github.com/mozor/mRPG>
